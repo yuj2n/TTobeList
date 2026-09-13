@@ -48,3 +48,6 @@ const useGetGoals = () => {
 
 export default useGetGoals;
 */
+
+// 주석을 유지하기 위해 맨 아래에 빈 export 추가
+export {};
